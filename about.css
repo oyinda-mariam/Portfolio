@@ -70,7 +70,7 @@ li a{
 }
 
 .mariam p{
-    padding-bottom: 25px;
+    line-height: 50px;
 }
 
 .marry{
@@ -79,7 +79,7 @@ li a{
 }
 
 .marry p{
-    padding-bottom: 25px;
+    line-height: 50px;
     padding-left: 50px;
 }
 
@@ -107,4 +107,12 @@ li a{
     text-decoration: underline 1px  grey;
     color: gold;
     font-size: 50px;
+}
+
+.rat{
+    color: gold;
+}
+
+.available{
+    color: rgba(27, 221, 27, 0.872);
 }
