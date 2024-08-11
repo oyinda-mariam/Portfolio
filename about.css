@@ -135,3 +135,51 @@ li a{
     width: 200px;
     height: 70px;
 }
+
+.gate{
+    color: white;
+    font-size: large;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.sunday{
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.look-1{
+    color: white;
+    background-color: black;
+    border-radius: 5000%;
+    border: goldenrod solid 10px;
+    padding: 40px;
+    width: 170px;
+}
+
+.look-2{
+    color: white;
+    background-color: black;
+    border-radius: 5000%;
+    border: goldenrod solid 10px;
+    padding: 40px;
+}
+
+.look-3{
+    color: white;
+    background-color: black;
+    border-radius: 5000%;
+    border: goldenrod solid 10px;
+    padding: 40px;
+}
+
+.look-4{
+    color: white;
+    background-color: black;
+    border-radius: 5000%;
+    border: goldenrod solid 10px;
+    padding: 40px;
+}
