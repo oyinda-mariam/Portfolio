@@ -237,3 +237,13 @@ li a{
     text-align: center;
 }
 
+.icon{
+    padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+}
+
+.icon p{
+    color: white;
+}
+
