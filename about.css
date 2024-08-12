@@ -36,6 +36,7 @@ li a{
 
 .strock{
     display: flex;
+    align-items: baseline;
 }
 
 .wed{
@@ -225,3 +226,14 @@ li a{
     border: goldenrod solid 10px;
     padding: 40px;
 }
+
+.mom{
+    color: white;
+    font-size: large;
+    font-family: fantasy;
+    padding-top: 8%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
