@@ -241,9 +241,5 @@ li a{
     padding-top: 50px;
     padding-left: 50px;
     color: white;
+    display: flex;
 }
-
-.icon p{
-    color: white;
-}
-
