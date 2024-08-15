@@ -241,9 +241,23 @@ li a{
     padding-top: 50px;
     padding-left: 50px;
     color: white;
+    display: flex;
 }
 
 .icon p{
     color: white;
 }
 
+.lot{
+    padding-top: 70px;
+    padding-left: 30px;
+}
+
+.lot h4{
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+
+.top{
+    display: flex;
+}
