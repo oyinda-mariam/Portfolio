@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+
+nav{
+    padding: 5px 90px;
+    /* background-color: black; */
+    color: white;
+}
+
+nav ul{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+a{
+    align-items: baseline;
+}
+
+li{
+    list-style: none;
+    align-items: baseline;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+.pot{
+    color: white;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.red{
+    color: goldenrod;
+}
+
+.toy{
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.toy :hover{
+    color: goldenrod;
+}
+
+.dot{
+    color: goldenrod;
+}
+
+.fat{
+    background-image: url(./image/img.jpg);
+    width: 100px;
+    height: 100px;
+    background-size: covera;
+}
+
