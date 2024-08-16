@@ -246,7 +246,6 @@ li a{
     padding-left: 50px;
     color: white;
     display: flex;
-<<<<<<< HEAD
 }
 
 .icon p{
@@ -315,6 +314,16 @@ li a{
 .dot h1{
    font-weight: bolder;
    font-size: 30px;
-=======
->>>>>>> 4644e7a0128d6b21cac852e9ac4fa812394719dc
 }
+
+.lord{
+    color: white;
+    display: flex;
+    gap: 100px;
+    padding-top: 50px;
+}
+
+.plot{
+    display: flex;
+}
+
